@@ -33,7 +33,7 @@ const App = () => {
   console.log(responseData[0]["cid"]);
 
   useEffect(() => {
-    const url = `http://www.opensecrets.org/api/?method=getLegislators&id=UT&output=json&apikey=${process.env.REACT_APP_API_KEY}`;
+    const url = `http://www.opensecrets.org/api/?method=getLegislators&id=CA&output=json&apikey=${process.env.REACT_APP_API_KEY}`;
 
     const fetchData = async () => {
       try {
@@ -53,7 +53,7 @@ const App = () => {
       <h1>
         {responseData[0].firstlast} ({responseData[0].party})
       </h1>
-      <img src="https://twitter.com/repblakemoore/photo" alt="Profile Photo" />
+      {/* <img src="https://twitter.com/repblakemoore/photo" alt="Profile Photo" /> */}
       <h3>Office: {responseData[0].office}</h3>
       <h3>Born: {responseData[0].birthdate}</h3>
       <h3>https://twitter.com/{responseData[0].twitter_id}</h3>
