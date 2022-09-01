@@ -196,33 +196,161 @@ const legislators = {
       firstlast: "Ro Khanna",
       lastname: "Khanna",
     },
-    N00027459: {
-      firstlast: "Doris Matsui",
-      lastname: "Matsui",
+    E000215: {
+      firstlast: "Anna Eshoo",
+      lastname: "Eshoo",
     },
-    N00030717: {
-      firstlast: "Ami Bera",
-      lastname: "Bera",
+    N00007479: {
+      firstlast: "Zoe Lofgren",
+      lastname: "Lofgren",
     },
-    N00045377: {
-      firstlast: "Jay Obernolte",
-      lastname: "Obernolte",
+    N00038601: {
+      firstlast: "Jimmy Panetta",
+      lastname: "Panetta",
     },
-    N00026926: {
-      firstlast: "Jerry McNerney",
-      lastname: "Mcnerny",
+    N00033367: {
+      firstlast: "David Valadao",
+      lastname: "Valadao",
     },
-    N00040853: {
-      firstlast: "Josh Harder",
-      lastname: "Harder",
+    N00007248: {
+      firstlast: "Devin Nunes",
+      lastname: "Nunes",
     },
-    N00030709: {
-      firstlast: "Mark Desaulnier",
-      lastname: "Desaulnier",
+    N00028152: {
+      firstlast: "Kevin McCarthy",
+      lastname: "Mccarthy",
     },
-    N00007360: {
-      firstlast: "Nancy Pelosi",
-      lastname: "Pelosi",
+    N00037015: {
+      firstlast: "Salud Carbajal",
+      lastname: "Carbajal",
+    },
+    N00044298: {
+      firstlast: "Mike Garcia",
+      lastname: "Garcia",
+    },
+    N00034254: {
+      firstlast: "Julia Brownley",
+      lastname: "Brownley",
+    },
+    N00030600: {
+      firstlast: "Judy Chu",
+      lastname: "Khanna",
+    },
+    N00009585: {
+      firstlast: "Adam Schiff",
+      lastname: "Schiff",
+    },
+    N00033373: {
+      firstlast: "Tony Cardenas",
+      lastname: "Cardenas",
+    },
+    N00006897: {
+      firstlast: "Brad Sherman",
+      lastname: "Sherman",
+    },
+    N00033997: {
+      firstlast: "Pete Aguilar",
+      lastname: "Aguilar",
+    },
+    N00006789: {
+      firstlast: "Grace Napolitano",
+      lastname: "Napolitano",
+    },
+    N00035825: {
+      firstlast: "Ted Lieu",
+      lastname: "Lieu",
+    },
+    N00040597: {
+      firstlast: "Jimmy Gomez",
+      lastname: "Gomez",
+    },
+    N00036107: {
+      firstlast: "Norma Torres",
+      lastname: "Torres",
+    },
+    N00033510: {
+      firstlast: "Raul Ruiz",
+      lastname: "Ruiz",
+    },
+    N00031877: {
+      firstlast: "Karen Bass",
+      lastname: "Bass",
+    },
+    N00024870: {
+      firstlast: "Linda Sanchez",
+      lastname: "Sanchez",
+    },
+    N00042386: {
+      firstlast: "Young Kim",
+      lastname: "Kim",
+    },
+    N00006671: {
+      firstlast: "Lucille Roybal-Allard",
+      lastname: "Roybal-Allard",
+    },
+    N00006701: {
+      firstlast: "Mark Takano",
+      lastname: "Takano",
+    },
+    N00007099: {
+      firstlast: "Ken Calvert",
+      lastname: "Calvert",
+    },
+    N00006690: {
+      firstlast: "Maxine Waters",
+      lastname: "Waters",
+    },
+    N00037019: {
+      firstlast: "Nanette Barragan",
+      lastname: "Barragan",
+    },
+    N00040865: {
+      firstlast: "Katie Porter",
+      lastname: "Porter",
+    },
+    N00037260: {
+      firstlast: "Lou Correa",
+      lastname: "Correa",
+    },
+    N00033274: {
+      firstlast: "Alan Lowenthal",
+      lastname: "Lowenthal",
+    },
+    N00044501: {
+      firstlast: "Michelle Steel",
+      lastname: "Steel",
+    },
+    N00040667: {
+      firstlast: "Mike Levin",
+      lastname: "Levin",
+    },
+    N00007017: {
+      firstlast: "Darrell Issa",
+      lastname: "Issa",
+    },
+    N00007021: {
+      firstlast: "Juan Vargas",
+      lastname: "Vargas",
+    },
+    N00033591: {
+      firstlast: "Scott Peters",
+      lastname: "Peters",
+    },
+    N00042081: {
+      firstlast: "Sara Jacobs",
+      lastname: "Jacobs",
+    },
+    N00036915: {
+      firstlast: "Kamala Harris",
+      lastname: "Harris",
+    },
+    N00047888: {
+      firstlast: "Alex Padilla",
+      lastname: "Padilla",
+    },
+    N00007364: {
+      firstlast: "Dianne Feinstein",
+      lastname: "Feinstein",
     },
   },
 
