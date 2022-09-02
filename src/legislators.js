@@ -424,6 +424,187 @@ const legislators = {
     },
   },
 
+  de: {
+    N00038414: {
+      firstlast: "Lisa Blunt Rochester",
+      lastname: "Rochester",
+    },
+    N00012508: {
+      firstlast: "Tom Carper",
+      lastname: "Carper",
+    },
+    N00031820: {
+      firstlast: "Chris Coons",
+      lastname: "Coons",
+    },
+  },
+
+  dc: {
+    N00001692: {
+      firstlast: "Eleanor Holmes Norton",
+      lastname: "Norton",
+    },
+  },
+
+  fl: {
+    N00039503: {
+      firstlast: "Matt Gaetz",
+      lastname: "Gaetz",
+    },
+    N00037442: {
+      firstlast: "Neal Dunn",
+      lastname: "Dunn",
+    },
+    N00045978: {
+      firstlast: "Kat Cammack",
+      lastname: "Cammack",
+    },
+    N00039777: {
+      firstlast: "John Rutherford",
+      lastname: "Rutherford",
+    },
+    N00030642: {
+      firstlast: "Al Lawson",
+      lastname: "Lawson",
+    },
+    N00042403: {
+      firstlast: "Michael Waltz",
+      lastname: "Waltz",
+    },
+    N00040133: {
+      firstlast: "Stephanie Murphy",
+      lastname: "Murphy",
+    },
+    N00029662: {
+      firstlast: "Bill Posey",
+      lastname: "Posey",
+    },
+    N00037422: {
+      firstlast: "Darren Soto",
+      lastname: "Soto",
+    },
+    N00033449: {
+      firstlast: "Val Demings",
+      lastname: "Demings",
+    },
+    N00026335: {
+      firstlast: "Daniel Webster",
+      lastname: "Webster",
+    },
+    N00027462: {
+      firstlast: "Gus Bilirakis",
+      lastname: "Bilirakis",
+    },
+    N00002942: {
+      firstlast: "Charlie Crist",
+      lastname: "Crist",
+    },
+    N00027514: {
+      firstlast: "Kathy Castor",
+      lastname: "Castor",
+    },
+    N00045978: {
+      firstlast: "Kat Cammack",
+      lastname: "Cammack",
+    },
+    N00039503: {
+      firstlast: "Matt Gaetz",
+      lastname: "Gaetz",
+    },
+    N00037442: {
+      firstlast: "Neal Dunn",
+      lastname: "Dunn",
+    },
+    N00045978: {
+      firstlast: "Kat Cammack",
+      lastname: "Cammack",
+    },
+    N00039503: {
+      firstlast: "Matt Gaetz",
+      lastname: "Gaetz",
+    },
+    N00037442: {
+      firstlast: "Neal Dunn",
+      lastname: "Dunn",
+    },
+    N00045978: {
+      firstlast: "Kat Cammack",
+      lastname: "Cammack",
+    },
+    N00039503: {
+      firstlast: "Matt Gaetz",
+      lastname: "Gaetz",
+    },
+    N00037442: {
+      firstlast: "Neal Dunn",
+      lastname: "Dunn",
+    },
+    N00045978: {
+      firstlast: "Kat Cammack",
+      lastname: "Cammack",
+    },
+    N00039503: {
+      firstlast: "Matt Gaetz",
+      lastname: "Gaetz",
+    },
+    N00037442: {
+      firstlast: "Neal Dunn",
+      lastname: "Dunn",
+    },
+    N00045978: {
+      firstlast: "Kat Cammack",
+      lastname: "Cammack",
+    },
+    N00039503: {
+      firstlast: "Matt Gaetz",
+      lastname: "Gaetz",
+    },
+    N00037442: {
+      firstlast: "Neal Dunn",
+      lastname: "Dunn",
+    },
+    N00045978: {
+      firstlast: "Kat Cammack",
+      lastname: "Cammack",
+    },
+    N00039503: {
+      firstlast: "Matt Gaetz",
+      lastname: "Gaetz",
+    },
+    N00037442: {
+      firstlast: "Neal Dunn",
+      lastname: "Dunn",
+    },
+    N00045978: {
+      firstlast: "Kat Cammack",
+      lastname: "Cammack",
+    },
+    N00039503: {
+      firstlast: "Matt Gaetz",
+      lastname: "Gaetz",
+    },
+    N00037442: {
+      firstlast: "Neal Dunn",
+      lastname: "Dunn",
+    },
+    N00045978: {
+      firstlast: "Kat Cammack",
+      lastname: "Cammack",
+    },
+    N00039503: {
+      firstlast: "Matt Gaetz",
+      lastname: "Gaetz",
+    },
+    N00037442: {
+      firstlast: "Neal Dunn",
+      lastname: "Dunn",
+    },
+    N00045978: {
+      firstlast: "Kat Cammack",
+      lastname: "Cammack",
+    },
+  },
+
   ut: {
     N00046598: {
       firstlast: "Blake Moore",

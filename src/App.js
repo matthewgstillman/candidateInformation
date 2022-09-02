@@ -33,7 +33,7 @@ const App = () => {
   console.log(responseData[0]["cid"]);
 
   useEffect(() => {
-    const url = `http://www.opensecrets.org/api/?method=getLegislators&id=CT&output=json&apikey=${process.env.REACT_APP_API_KEY}`;
+    const url = `http://www.opensecrets.org/api/?method=getLegislators&id=FL&output=json&apikey=${process.env.REACT_APP_API_KEY}`;
 
     const fetchData = async () => {
       try {
