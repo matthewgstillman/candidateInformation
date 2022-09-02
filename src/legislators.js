@@ -354,6 +354,76 @@ const legislators = {
     },
   },
 
+  co: {
+    N00006134: {
+      firstlast: "Diana DeGette",
+      lastname: "Degette",
+    },
+    N00041080: {
+      firstlast: "Joseph Neguse",
+      lastname: "Neguse",
+    },
+    N00045974: {
+      firstlast: "Lauren Boebert",
+      lastname: "Boebert",
+    },
+    N00030829: {
+      firstlast: "Ken Buck",
+      lastname: "Buck",
+    },
+    N00028133: {
+      firstlast: "Doug Lamborn",
+      lastname: "Lamborn",
+    },
+    N00040876: {
+      firstlast: "Jason Crow",
+      lastname: "Crow",
+    },
+    N00027510: {
+      firstlast: "Ed Perlmutter",
+      lastname: "Perlmutter",
+    },
+    N00030608: {
+      firstlast: "Michael Bennet",
+      lastname: "Bennet",
+    },
+    N00044206: {
+      firstlast: "John Hickenlooper",
+      lastname: "Hickenlooper",
+    },
+  },
+
+  ct: {
+    N00000575: {
+      firstlast: "John Larson",
+      lastname: "Larson",
+    },
+    N00024842: {
+      firstlast: "Joe Courtney",
+      lastname: "Courtney",
+    },
+    N00000615: {
+      firstlast: "Rosa DeLauro",
+      lastname: "DeKauro",
+    },
+    N00029070: {
+      firstlast: "Jim Himes",
+      lastname: "Himes",
+    },
+    N00043421: {
+      firstlast: "Jahana Hayes",
+      lastname: "Hayes",
+    },
+    N00027566: {
+      firstlast: "Christopher S Murphy",
+      lastname: "Murphy",
+    },
+    N00031685: {
+      firstlast: "Richard Blumenthal",
+      lastname: "Blumenthal",
+    },
+  },
+
   ut: {
     N00046598: {
       firstlast: "Blake Moore",
